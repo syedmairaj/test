@@ -4,3 +4,5 @@ ali
 khan
 zehra
 vaseem
+huma 
+nuzha
